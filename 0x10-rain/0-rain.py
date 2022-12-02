@@ -8,6 +8,7 @@ are not walls, meaning they will not retain water.
 If the list is empty return 0.
 """
 
+
 def rain(walls):
     """
     Return total amount of rainwater retained.
